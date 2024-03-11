@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Signal d.o.o. Servis mobitela i racunala"
+  title: "React template example"
   content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
   image: "/images/banner.png"
   button:
